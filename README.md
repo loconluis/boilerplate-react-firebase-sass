@@ -10,8 +10,10 @@ For the use of this boilerplate:
 
 4 - `$ git init` for a new git repo.
 
-5 - `$ yarn install`
+5 - `$ yarn install`.
 
-6 - `$ yarn run dev-server`
+6 - `$ yarn run dev-server`.
 
-7 - app is running on `localhost:8080`
+7 - app is running on `localhost:8080`.
+
+Feel free to write me if you want to collaborate to make it much better, and more optimal.
