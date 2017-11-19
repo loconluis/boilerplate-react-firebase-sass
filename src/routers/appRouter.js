@@ -1,13 +1,12 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import { Router, Route, Switch } from 'react-router-dom';
+import { Router, Switch } from 'react-router-dom';
 import createHistory from 'history/createBrowserHistory';
 // Components
 import DashboardPage from '../components/DashboardPage';
 import Error404 from '../components/Error404';
 import LoginPage from '../components/LoginPage';
 import PrivateRoute from './PrivateRoute';
-import PublicRoute from './PublicRoute'
+import PublicRoute from './PublicRoute';
 
 export const history = createHistory();
 
